@@ -11,7 +11,7 @@ class Home extends Component{
                    <nav>
                  <NavLink exact to='./home'>Home</NavLink>
                  <NavLink exact to='./dog'>Dog</NavLink>
-                 <a href='./dog'>Fish2</a>
+            
                  <NavLink exact to='./fish'>Fish</NavLink>
              </nav>
                  Here is home page
